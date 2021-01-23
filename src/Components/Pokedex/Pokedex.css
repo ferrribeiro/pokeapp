@@ -1,5 +1,5 @@
 .pokedex {
-    background-color: lightblue;
+    background-image: linear-gradient(to bottom, #ec8383 ,#fabdbd);
     display: flex;
     flex-direction: column;
     align-items: center;
